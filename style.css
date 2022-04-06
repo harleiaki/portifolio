@@ -1,0 +1,91 @@
+body {
+			font-family: Arial;
+            padding: 50px;
+            background-color: black;
+		}
+
+		header {
+			padding: 25px;
+			font-size: 50px;
+			text-align: center;			
+			background: midnightblue;
+
+		}
+
+		.social {
+			text-align: center ;
+			width: 25px;
+			height: 25px;
+		}
+
+		left-column{
+			float:  center;
+			width:  50%;
+			padding-right: 50px;
+		}
+
+		profissional-picture{
+			background-color: black;
+			width: 100%;
+			padding: 100px;
+		}
+		middle-column {
+			float:  right;
+			text-align: right;
+			width: 100%;
+		}
+
+		*{
+			box-sizing: border-box;
+		}
+		left-column{
+			float: center;
+			width: 50%;
+			padding-left: 40px;
+			text-align: center;
+		}
+		right-column {
+			float:  center;
+			width: 25%;
+			padding-right: 20px;
+		}
+		article{
+			background-color: gray;
+			padding: 5px;
+			margin-top: 10px;
+			text-align: center;
+
+		}
+		card-content li{
+			margin: 10px ;
+		}
+		.bold{
+			font-weight: bold;
+
+		}
+
+		footer {
+			padding: 20px;
+			text-align: center;
+			background: darkcyan;
+			margin-top: 5px;
+		}
+
+		main:after {
+			content:  center;
+			display: table;
+			clear: both;
+			
+		}
+
+		profissional-picture {
+			background-color: darkred;
+			width: 100%;
+			padding: 5px;
+			text-align: left;
+		}
+		keyframes rotate-image{
+			background-color: black;
+			100%
+		}
+	
